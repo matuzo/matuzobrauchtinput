@@ -27,6 +27,15 @@ Themen bei denen ich noch Anfänger bin oder absolut keine Ahnung habe.
 * Rollup
 * Was kann Typo3 in 2022
 * Was kann Joomla in 2022
+* TypeScript
+* lch, lab, color-mix, etc.
+* JSX
+* CSS-in-JS
+* Solid JS
+* Preact
+* Remix
+* Blitz
+* RxJS
 
 ### Mid-level
 
@@ -38,7 +47,7 @@ Da kann ich zumindest mitreden.
 * Animation (css, gsap, was auch immer)
 * Wie baue ich am besten Authentifizierung in meine Website ein (Login, Registrierung)?
 * Wie verknüpfe ich meine Website mit einem Paymentanbieter wie Stripe?
-* Wie arbeitest du mit Svelte?
+* Wie arbeitest du mit Svelte? (Workflow, wofür verwendest du es, warum genau Svelte, etc.)
 * Wie arbeitest du mit Vue?
 * Wie arbeitest du mit React?
 * Wie arbeitest du mit Angular?
@@ -46,6 +55,15 @@ Da kann ich zumindest mitreden.
 * Service Worker
 * Theming in CraftCMS
 * Sonstiges CraftCMS
+* Design Systeme und Design Tokens
+* Container queries
+* PostCSS
+* UI Component Libraries
+* Frontend Performance
+* Linting/Prettier
+* VS Code Plugins
+* SvelteKit
+* Astro
 
 ### High-level
 
@@ -57,3 +75,6 @@ Da kenne ich mich schon ganz gut aus und würde gerne in die Tiefe gehen.
 * min(), max(), clamp()
 * Logical properties
 * Accessibility Testing
+* CSS Grid
+* Sass vs. Vanilla CSS
+* Eleventy
