@@ -36,6 +36,8 @@ Themen bei denen ich noch Anfänger bin oder absolut keine Ahnung habe.
 * Remix
 * Blitz
 * RxJS
+* Vite
+* Capri
 
 ### Mid-level
 
